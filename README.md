@@ -84,7 +84,8 @@
     }
     a { color: #ffffff; text-decoration: none; }
   
-    /* Animations */
+
+    
     html { scroll-behavior: smooth; }
 
     .fade-up {
