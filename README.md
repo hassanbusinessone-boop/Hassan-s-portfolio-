@@ -70,8 +70,8 @@
       gap: 20px;
     }
     .gallery img {
-      width: 100%;
-      border-radius: 16px;
+      width: 25%;
+      border-radius: 10px;
       object-fit: cover;
     }
     footer {
